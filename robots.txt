@@ -1,0 +1,11 @@
+User-agent: *
+# Don't crawl these pages.
+Disallow: /projects/dndice/diceroller.js
+Disallow: /website-template.txt
+Disallow: /404.html
+Disallow: /assets/img/74072833.png
+Disallow: /assets/img/duvalstudioslogo.png
+Disallow: /assets/img/GitHub-Mark-Light-64px.png
+Disallow: /assets/img/logo-ico.ico
+Disallow: /assets/img/logo-png.png
+Disallow: /assets/img/logo-text.png
