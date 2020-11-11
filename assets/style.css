@@ -4,6 +4,17 @@ html {
   color: white;
   background-color: #1a1a1a;
 }
+
+table{
+margin: 0 auto;
+}
+
+code {
+  color: white;
+  background-color: #0D0D0D;
+  padding: 2.5px;
+  font-weight: bold;
+}
 /** ID's **/
 
 #button {
@@ -49,14 +60,6 @@ a:active{
  text-decoration: none;
 }
 
-
-/** Code Styling - For when I metion code**/
-code {
-  color: white;
-  background-color: #0D0D0D;
-  padding: 2.5px;
-  font-weight: bold;
-}
 /** DIV Style Code**/
 
 /** Page Wrapper **/
@@ -73,6 +76,7 @@ display: inline-block;
 vertical-align: middle;
 -webkit-transition: 0.3s;
 transition: 0.3s;
+margin: 0 auto;
 }
 
 .buttonwrapper {
@@ -80,11 +84,13 @@ transition: 0.3s;
   height: 60px;
   width: 350px;
   border-radius: 25px;
+  margin: 0 auto;
 }
 
 .txtcontainer{
   border: 2px solid white;
   border-radius: 25px;
+  margin: 0 auto;
 }
 /** Custom Imported Fonts - OTF Format **/
 @font-face  {
