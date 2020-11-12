@@ -3,8 +3,6 @@ User-agent: *
 Disallow: /projects/dndice/diceroller.js
 Disallow: /website-template.txt
 Disallow: /404.html
-Disallow: /assets/img/74072833.png
-Disallow: /assets/img/duvalstudioslogo.png
-Disallow: /assets/img/logo-ico.ico
-Disallow: /assets/img/logo-png.png
-Disallow: /assets/img/logo-text.png
+Disallow: /assets/img/
+# If you want to disallow all of your images from being crawled, you can just mention 
+# a folder like this instead of all of your individual file paths.
